@@ -1,7 +1,7 @@
 # 💫 About Me:
 Computer science student at University of Bologna, I'm currently working as a software developer.
 
-More infos in [my website](giulianomanzi.com)
+More infos on [my website](https://giulianomanzi.com).
 
 
 ## 🌐 Socials:
